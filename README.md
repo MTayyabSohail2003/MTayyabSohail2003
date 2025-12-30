@@ -1,146 +1,135 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Muhammad+Tayyab+Sohail+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Scalable+Web+Architect+%F0%9F%8F%97%EF%B8%8F;JavaScript+Specialist+%F0%9F%9F%A8;Building+Solutions+That+Scale+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Muhammad%20Tayyab%20Sohail&fontSize=80&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Scalable%20Web%20Architect&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Scale+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8;MERN+Stack+Specialist+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
----
-
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-
-<h2>💫 About Me — <i>The Full-Stack Architect</i></h2>
-
-[cite_start]🚀 I am a **MERN Stack Developer** with over 2 years of professional experience building fast, user-friendly, and scalable applications[cite: 8, 10].
-
-🧠 **My Core Focus:**
-[cite_start]• 🌐 **Frontend** → Crafting responsive UIs with React.js, Redux, and Tailwind CSS[cite: 11].
-[cite_start]• ⚙️ **Backend** → Building secure RESTful APIs with Node.js, Express, and MongoDB[cite: 12].
-[cite_start]• 🛠️ **Optimization** → Improving performance and debugging complex logic[cite: 12].
-
-[cite_start]🏗️ Currently engineering scalable solutions at **Wodwes LLC**[cite: 8, 20].
-
-🔥 **Mission:** Turning complex requirements into high-performance digital products.
-
-[cite_start]🧪 **Expertise:** Scalable Web Applications • Computer Science Education • Teamwork[cite: 5, 6].
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tayyab-sohail-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:mtayyabsohail8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/tayyab-sohail-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mtayyabsohail8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tayyab-sohail-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-</td>
+</div>
 
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-</td>
-</tr>
+<br/>
+
+---
+
+<div align="center">
+  <h2>💫 About Me</h2>
+  <p><i>"Turning complex requirements into high-performance digital products."</i></p>
+</div>
+
+<table align="center" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      🚀 I am a **MERN Stack Developer** with over 2 years of professional experience building fast, user-friendly, and scalable applications.
+      <br/><br/>
+      <b>🧠 My Core Focus:</b>
+      <br/>
+      &nbsp;&nbsp;• 🌐 <b>Frontend</b>: Crafting responsive UIs with React.js, Redux, and Tailwind CSS.
+      <br/>
+      &nbsp;&nbsp;• ⚙️ <b>Backend</b>: Building secure RESTful APIs with Node.js, Express, and MongoDB.
+      <br/>
+      &nbsp;&nbsp;• 🛠️ <b>Optimization</b>: Improving performance and debugging complex logic.
+      <br/><br/>
+      🏗️ Currently engineering scalable solutions at <b>Wodwes LLC</b>.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="center">🧠 The Arsenal — Tech Stack</h2>
+<div align="center">
+  <h2>🛠️ The Arsenal</h2>
+</div>
 
 <div align="center">
 
-### 💻 Full Stack (MERN)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React.js-Scalable-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb)
+### 💻 Core Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Responsive-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-State_Management-764ABC?style=for-the-badge&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3)
+### 🎨 Frontend & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-<h2 align="center">💼 Professional Journey</h2>
+<div align="center">
+  <h2>💼 Professional Journey</h2>
+</div>
 
 <div align="center">
 
 | Company | Role | Duration |
 | :--- | :--- | :--- |
-| **DevMiners** | MERN Stack Developer | [cite_start]June 2025 - Present [cite: 14, 16] |
-| **WODWES LLC** | MERN Stack Developer | [cite_start]Dec 2024 - Present [cite: 18, 20] |
-| **Code glow & Gamicacloud** | Web Developer | [cite_start]Sept 2024 - Nov 2024 [cite: 21, 23] |
-
-</div>
-
----
-
-<h2 align="center">📊 Stats & Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tayyab-sohail-dev&show_icons=true&theme=gruvbox&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-sohail-dev&layout=compact&theme=gruvbox"/>
-
-</div>
-
----
-
-<h2 align="center">🧩 My Development Workflow</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120"/><br/>
-  <b>Plan</b><br/>
-  [cite_start]Architecture & Scalability [cite: 5]
-</td>
-
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/><br/>
-  <b>Develop</b><br/>
-  [cite_start]MERN Stack Coding [cite: 10]
-</td>
-
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/><br/>
-  <b>Optimize</b><br/>
-  [cite_start]Performance & Debugging [cite: 12]
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🎭 Developer Personality</h2>
-
-<div align="center">
-
-⚡ Passionate about Clean Code  
-[cite_start]🏢 Enterprise-grade Scalability Expert [cite: 5]  
-[cite_start]🎓 Background in Computer Science [cite: 30]  
-[cite_start]🤝 Strong believer in Teamwork [cite: 6]  
-☕ Turning JavaScript into Scalable Solutions  
+| **DevMiners** | MERN Stack Developer | June 2025 - Present |
+| **WODWES LLC** | MERN Stack Developer | Dec 2024 - Present |
+| **Code glow & Gamicacloud** | Web Developer | Sept 2024 - Nov 2024 |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+  <h2>📊 Stats & Achievements</h2>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyab-sohail-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-sohail-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-sohail-dev&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
-  <h3>✍️ Thought of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+---
 
-  <p><i>“Building scalable solutions, one line of code at a time.”</i></p>
+<div align="center">
+  <h2>🧩 Development Workflow</h2>
+  <br/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" style="margin-right: 20px"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" style="margin: 0 20px"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" style="margin-left: 20px"/>
+  <br/><br/>
+  <b>Plan</b> &nbsp;&nbsp; ➡️ &nbsp;&nbsp; <b>Develop</b> &nbsp;&nbsp; ➡️ &nbsp;&nbsp; <b>Optimize</b>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=150&section=footer"/>
 </div>
