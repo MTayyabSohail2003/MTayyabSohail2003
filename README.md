@@ -22,7 +22,7 @@
   <a href="mailto:mtayyabsohail8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/tayyab-sohail-dev](https://github.com/MTayyabSohail2003)">
+  <a href="https://github.com/MTayyabSohail2003">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -107,14 +107,7 @@
 
 ---
 
-<div align="center">
-  <h2>📊 Stats & Achievements</h2>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyab-sohail-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-sohail-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-sohail-dev&theme=tokyonight&hide_border=true" height="180"/>
-</div>
+
 
 ---
 
